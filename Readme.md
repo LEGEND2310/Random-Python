@@ -1,1 +1,1 @@
-This repo contains scripts that might be useful in the future
+This repository contains scripts that might be useful in the near future
